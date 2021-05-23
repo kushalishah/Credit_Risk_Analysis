@@ -55,8 +55,8 @@ While this is the most important statistic that is pulled from this analysis, an
 
 After taking these two statistics over the others, we can look at the accurary score to get a picture of how well the model performs in general. The models with the highest accuracy scores were:
 
-1. Easy Ensemble Classify (92%)
+1. Easy Ensemble Classify (91.6%)
 2. SMOTEENN Sampling (61%)
-3. Balanced Random Forest Classifying (92%)
+3. Balanced Random Forest Classifying (91.2%)
 
 After factoring in these three main statistics, the model that I would recommend to use for predicting high risk loans is the Easy Ensemble Classifying model.
